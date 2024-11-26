@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal project\\gamelife\\source\\gamelife\\gamelife.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal project\\gamelife\\intermediate\\build\\win64\\x64\\gamelifeeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal project\\gamelife\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gamelife\\definitions.gamelife.h",
+            "d:\\unreal project\\gamelife\\source\\gamelife\\gamelife.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

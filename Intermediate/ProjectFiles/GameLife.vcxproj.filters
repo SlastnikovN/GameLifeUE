@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GameLife.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GameLife.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GameLifeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GameLife">
+      <UniqueIdentifier>{D544238A-6BA2-30B6-982E-E9ED85667DEF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GameLife\Game.cpp">
+      <Filter>Source\GameLife</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameLife\Game.h">
+      <Filter>Source\GameLife</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\GameLife\GameLife.Build.cs">
+      <Filter>Source\GameLife</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GameLife\GameLife.cpp">
+      <Filter>Source\GameLife</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameLife\GameLife.h">
+      <Filter>Source\GameLife</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

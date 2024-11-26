@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Project\\GameLife\\Source\\GameLife\\GameLife.Build.cs",
+		"D:\\Unreal Project\\GameLife\\Source\\GameLife.Target.cs",
+		"D:\\Unreal Project\\GameLife\\Source\\GameLifeEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
